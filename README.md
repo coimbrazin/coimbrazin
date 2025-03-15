@@ -1,30 +1,7 @@
-<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
-<svg xmlns='http://www.w3.org/2000/svg'
-    xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 1200 100'
-    style='background-color: #00000000;'
-    width='1200px' height='100px'>
+<img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&color=%bebebe&size=48&center=true&vCenter=true&width=1200&height=100&lines=Boa+Pra+Nois+Meus+Parcero🤟;+Que+Comece+A+Festa🤡" alt="Typing SVG" style="display: inline-block;">
 
-  <text font-family='"Great Vibes", monospace' fill='#bebe' font-size='48'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path0'>
-            Boa Pra Nois Meus Parceiro 🤟
-        </textPath>
-    </text>
-        <path id='path1'>
-                            <!-- Single line -->
-                                <animate id='d1' attributeName='d' begin='d0.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,50 h0 ; m0,50 h1200 ; m0,50 h1200 ; m0,50 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"Great Vibes", monospace' fill='#bebe' font-size='48'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path1'>
-             Que Comece A Festa 🤡
-        </textPath>
-    </text>
-</svg>
+<div align="center">
+
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae447fdd-fc93-45cc-9836-f5c41b715c79/d5asbec-bbbda53c-4688-478c-8eef-1fc61d37cc96.gif](https://media1.tenor.com/m/Nj7SjDbVzkMAAAAC/l3rdamon-lordamon.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FlNDQ3ZmRkLWZjOTMtNDVjYy05ODM2LWY1YzQxYjcxNWM3OVwvZDVhc2JlYy1iYmJkYTUzYy00Njg4LTQ3OGMtOGVlZi0xZmM2MWQzN2NjOTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iVwIobqBCsd9CfdbotVYUCN6CHY6oCTKdCn9adIBKyY" width="150" height="200" >
+
+</div>
