@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%33ffd7&size=48&center=true&vCenter=true&width=1200&height=100&lines=SEJA+BEM-VINDO+MEU+NOBRE+🍷🗿;+MEU+NOME+É+CHRISTOPHER+🤡" alt="Typing SVG" style="display: inline-block;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%33ffd7&size=48&center=true&vCenter=true&width=1200&height=100&lines=SEJA+BEM-VINDO+MEU+NOBRE+🍷🗿;+MEU+NOME+É+CHRISTOPHER+🤟" alt="Typing SVG" style="display: inline-block;">
 
 <div align="center">
 
