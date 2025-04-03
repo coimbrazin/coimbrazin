@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%33ffd7&size=48&center=true&vCenter=true&width=1200&height=100&lines=SEJA+BEM-VINDO+MEU+NOBRE+🍷🗿;+MEU+NOME+É+CHRISTOPHER+🤟" alt="Typing SVG" style="display: inline-block;">
 
-<div align="center">
+<div align=center>
 
 <img src="https://github.com/user-attachments/assets/5756d3e7-56c1-486d-90a1-7540fb26d5e2">
 
@@ -9,7 +9,7 @@
 </div>
 
 <br clear="both">
-<div align="center">
+<div align=center>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"  />
@@ -22,4 +22,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino"  />
   <img width="12" />
+</div>
+
+<div align=center>
+
+<img src="https://raw.githubusercontent.com/coimbrazin/coimbrazin/output/snake.svg" alt="Snake animation" />
+
 </div>
